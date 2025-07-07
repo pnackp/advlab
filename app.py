@@ -1,3 +1,5 @@
+# pip install yt_dlp
+
 import yt_dlp
 def download_youtube_video(url, save_path="."):
     ydl_opts = {
